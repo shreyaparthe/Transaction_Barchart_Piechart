@@ -1,0 +1,40 @@
+.bar-chart-container {
+    width: 100%;
+    padding: 20px;
+    background: #ecf0f1;
+    margin-top: 20px;
+    border-radius: 10px;
+  }
+  
+  .bar-chart-container h2 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .Barchart{
+    display: flex
+    ;
+        justify-content: space-around;
+        margin: 20px 0;
+        padding: 47px;
+        flex-direction: column;
+        color: black;
+        align-items: center;
+    
+  }
+  button{
+    background-color: #636363;
+    color: white;
+    margin: 5px;
+  }
+
+ 
+  
+input{
+    margin: 5px; 
+    height: 36px;
+    border-radius: 11px;
+    text-align: center;
+    border: 1px solid;
+    width: 88px;
+}
